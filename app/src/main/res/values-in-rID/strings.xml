@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yo</string>
+    <string name="title">Judul Artikel</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="artikel">Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum</string>
+</resources>
